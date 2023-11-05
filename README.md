@@ -10,9 +10,9 @@ The project is structured as follows:
 - `Preprocessing`: A class responsible for the initial preprocessing of images.
 - `Frangi`: The class implementing the core Frangi filter algorithm.
 - `RANSAC`: A class that was part of the original MLESAC approach, now repurposed for our use-case.
-- `Kalman`: This class includes a Kalman filter, which may be used for tracking or smoothing.
+- `Kalman`: This class includes a Kalman filter, which is used for estimation enhencement.
 - `tip_estimation`: Contains methods for estimating the tips of the detected vessels.
-- `save_file`: Handles the saving of processed images or results to the filesystem.
+- `save_file`: Handles the saving of results.
 
 ## Prerequisites
 Before running the algorithm, ensure you have the following prerequisites installed:
