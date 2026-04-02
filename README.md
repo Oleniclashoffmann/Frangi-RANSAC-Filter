@@ -108,14 +108,6 @@ MLESAC/
 
 ---
 
-## Prerequisites
-
-- **OpenCV 4.x** — install via [official guide](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html) or package manager
-- **C++ compiler** with C++11 support (MSVC, GCC, or Clang)
-- **Visual Studio** (Windows) or adapt the build for CMake on other platforms
-
----
-
 ## Getting Started
 
 1. Clone the repository:
