@@ -1,6 +1,6 @@
 # Real-Time Needle Tip Detection in Ultrasound Images
 
-> **Bachelor's Thesis Project** — 3 of 3 Real-time needle axis and tip estimation in ultrasound images using a ray-based statistical filtering algorithm.
+> **Bachelor's Thesis Project** — 3 of 3 Real-time needle axis and tip estimation in ultrasound images using a Frangi Filter and a RANSAC algorithm for the tip estimation.
 
 ---
 
