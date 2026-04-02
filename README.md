@@ -1,6 +1,6 @@
 # Real-Time Needle Tip Detection in Ultrasound Images
 
-A C++ computer vision pipeline for detecting and tracking surgical needle tips in ultrasound imagery using Frangi vesselness filtering, RANSAC line fitting, probabilistic tip estimation, and Kalman filtering. Developed as part of a Bachelor's thesis.
+> **Bachelor's Thesis Project** — 1 of 3 Real-time needle axis and tip estimation in ultrasound images using a ray-based statistical filtering algorithm.
 
 ---
 
