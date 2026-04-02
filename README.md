@@ -161,7 +161,7 @@ The program displays:
 
 ## Context
 
-This project was developed as part of a **Bachelor's thesis** in the field of medical image processing. It was tested on **liver tissue** and **gel phantom** ultrasound datasets with varying needle insertion angles. The pipeline demonstrates how classical computer vision techniques can be combined to solve a clinically relevant real-time tracking problem without requiring deep learning or GPU acceleration.
+This project was developed as part of a **Bachelor's thesis** on automated needle detection in ultrasound imaging. The algorithm is designed for real-time processing of sequential ultrasound frames and outputs the estimated needle tip position, axis angle, and per-frame computation time.
 
 ### References
 
