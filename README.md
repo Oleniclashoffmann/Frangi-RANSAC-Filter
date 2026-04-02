@@ -71,13 +71,10 @@ Applies a **linear Kalman filter** for temporal smoothing across sequential fram
 
 ## Tech Stack
 
-| Category | Technology |
+| Technology | Purpose |
 |---|---|
-| **Language** | C++ |
-| **Computer Vision** | OpenCV (image I/O, filtering, transformations, visualization) |
-| **Build System** | Visual Studio (MSVC / `.vcxproj`) |
-| **Algorithms** | Frangi Filter, RANSAC, Kalman Filter, Bayesian Estimation |
-| **Domain** | Medical Image Processing, Ultrasound, Interventional Guidance |
+| **C++17** | Core implementation language |
+| **OpenCV** | Image processing, connected components, line drawing, matrix operations |
 
 ---
 
